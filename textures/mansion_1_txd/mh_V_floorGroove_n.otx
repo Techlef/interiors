@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image mh_V_floorGroove_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

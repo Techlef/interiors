@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image prop_bulb_whiteprop_bulb_white.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 4
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

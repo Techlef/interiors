@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image artwall_blck_whit.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 11
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

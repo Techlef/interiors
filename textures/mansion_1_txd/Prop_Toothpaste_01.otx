@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image Prop_Toothpaste_01.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 5
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

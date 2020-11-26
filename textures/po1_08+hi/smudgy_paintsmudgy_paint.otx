@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image smudgy_paintsmudgy_paint.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags NOT_HALF HD_SPLIT
+	ExtraFlags 0
+}

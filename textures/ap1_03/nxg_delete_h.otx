@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image nxg_delete_h.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 1
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

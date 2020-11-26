@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dlcba_xj_metal_base02.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 1
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

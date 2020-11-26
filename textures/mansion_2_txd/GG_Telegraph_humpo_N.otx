@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image GG_Telegraph_humpo_N.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

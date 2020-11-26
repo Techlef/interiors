@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dlcba_speaker_bracket_diff.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

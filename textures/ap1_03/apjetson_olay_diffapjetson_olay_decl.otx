@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image apjetson_olay_diffapjetson_olay_decl.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 6
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

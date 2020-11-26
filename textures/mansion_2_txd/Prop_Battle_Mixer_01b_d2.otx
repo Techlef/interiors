@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image Prop_Battle_Mixer_01b_d2.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

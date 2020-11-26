@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image int_metal_brushed_02b_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage DEFAULT
+	UsageFlags -
+	ExtraFlags 0
+}

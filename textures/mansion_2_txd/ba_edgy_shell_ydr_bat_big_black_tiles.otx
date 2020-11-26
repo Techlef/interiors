@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ba_edgy_shell_ydr_bat_big_black_tiles.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 9
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

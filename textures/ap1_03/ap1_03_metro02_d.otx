@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ap1_03_metro02_d.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

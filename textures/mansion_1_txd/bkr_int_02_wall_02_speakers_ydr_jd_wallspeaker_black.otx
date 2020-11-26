@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image bkr_int_02_wall_02_speakers_ydr_jd_wallspeaker_black.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image id1_06_pipebit.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage DIFFUSE
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

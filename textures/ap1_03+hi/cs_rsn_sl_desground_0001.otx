@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image cs_rsn_sl_desground_0001.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage DIFFUSE
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

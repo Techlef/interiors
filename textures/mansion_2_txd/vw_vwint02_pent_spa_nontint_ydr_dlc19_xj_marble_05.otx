@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image vw_vwint02_pent_spa_nontint_ydr_dlc19_xj_marble_05.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

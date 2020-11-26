@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image curtain_yat_01_dm.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

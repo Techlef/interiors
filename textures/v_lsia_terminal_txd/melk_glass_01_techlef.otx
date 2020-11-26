@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image melk_glass_01_techlef.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 10
+	Usage DEFAULT
+	UsageFlags -
+	ExtraFlags 0
+}

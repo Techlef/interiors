@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image CSRN_CH2_08_nwbld03_dtl_02_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

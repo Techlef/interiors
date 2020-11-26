@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image prop_box_wood06a.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags NOT_HALF HD_SPLIT
+	ExtraFlags 0
+}

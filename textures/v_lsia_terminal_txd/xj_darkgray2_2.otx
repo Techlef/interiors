@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image xj_darkgray2_2.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 8
+	Usage DEFAULT
+	UsageFlags -
+	ExtraFlags 0
+}

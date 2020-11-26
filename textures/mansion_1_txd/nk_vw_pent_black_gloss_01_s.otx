@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image nk_vw_pent_black_gloss_01_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image SC1_RSN_NS_ground_0010_S.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

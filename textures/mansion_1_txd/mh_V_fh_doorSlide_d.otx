@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image mh_V_fh_doorSlide_d.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 4
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}
