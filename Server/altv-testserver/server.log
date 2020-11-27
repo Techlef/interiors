@@ -1,26 +1,25 @@
-[22:03:09] alt:V Server 2.1-dev4 (dev)
-[22:03:09] Starting alt:V Server on 0.0.0.0:7788
-[22:03:09] coreclr-module: version found: 3.1.7
-[22:03:09] coreclr-module: greatest version: 3.1.7
-[22:03:10] Loading resource techlef-server
-[22:03:10] Loaded resource techlef-server
-[22:03:10] Loading resource techlef-client
-[22:03:10] Loading resource chat
-[22:03:11] Loaded resource chat
-[22:03:11] Loaded resource techlef-client
-[22:03:11] Loading resource timecycleModifiers
-[22:03:11] Loaded resource timecycleModifiers
-[22:03:11] Loading resource techlef_cardealer
-[22:03:12] Loaded resource techlef_cardealer
-[22:03:12] Required server permissions:
-[22:03:12] Optional server permissions:
-[22:03:12] Starting HTTP server on 0.0.0.0:7788
-[22:03:12] Console thread started (ThreadId: 20076)
-[22:03:12] Main thread started (ThreadId: 13720)
-[22:03:12] Colshape thread started (ThreadId: 7392)
-[22:03:12] EntityStreamer thread started (ThreadId: 16804)
-[22:03:12] Network thread started (ThreadId: 2028)
-[22:03:12] Server started
-[22:03:12] Stopping resource timecycleModifiers
-[22:03:12] Stopped resource timecycleModifiers
-[22:03:12] Stopping resource techlef-server
+[07:52:00] alt:V Server, build #1301, branch release
+[07:52:00] Starting alt:V Server on 0.0.0.0:7788
+[07:52:00] coreclr-module: version found: 3.1.7
+[07:52:00] coreclr-module: greatest version: 3.1.7
+[07:52:00] Loading resource techlef-server
+[07:52:00] Loaded resource techlef-server
+[07:52:00] Loading resource techlef-client
+[07:52:00] Loading resource chat
+[07:52:01] Loaded resource chat
+[07:52:01] Loaded resource techlef-client
+[07:52:01] Loading resource timecycleModifiers
+[07:52:01] Loaded resource timecycleModifiers
+[07:52:01] Loading resource techlef_cardealer
+[07:52:01][Error] Could not open resource.cfg
+[07:52:01][Error] Failed to load resource techlef_cardealer
+[07:52:01] Starting HTTP server on 0.0.0.0:7788
+[07:52:01] Console thread started (ThreadId: 10800)
+[07:52:01] Main thread started (ThreadId: 1000)
+[07:52:01] Colshape thread started (ThreadId: 12896)
+[07:52:01] EntityStreamer thread started (ThreadId: 900)
+[07:52:01] Network thread started (ThreadId: 8808)
+[07:52:01] Server started
+[07:52:11] Stopping resource timecycleModifiers
+[07:52:11] Stopped resource timecycleModifiers
+[07:52:11] Stopping resource techlef-server
