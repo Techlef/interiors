@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2AZ8vkB1ouQPqnjlJFemnW9i6WN8/PdnRGuVBBQIiapBRGHRBSofBWjP8h4yAdMuYdySMqtajwSnAPoxHmIKg==",
+  "success": true,
+  "projectFilePath": "G:\\github\\modding_backups\\source-testserver\\modding.server\\modding.server\\modding.server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\altv.net\\1.38.4\\altv.net.1.38.4.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\altv.net.async\\1.38.4\\altv.net.async.1.38.4.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\altv.net.mock\\1.15.0\\altv.net.mock.1.15.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\altv.net.resources.chat.api\\1.38.0\\altv.net.resources.chat.api.1.38.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
