@@ -17,3 +17,9 @@
 [11:43:12] EntityStreamer thread started (ThreadId: 196)
 [11:43:12] Network thread started (ThreadId: 7332)
 [11:43:12] Server started
+[11:45:42] [chat:cmd] [GTALife.net] Techlef: /weapon
+[11:45:42][Warning] Event handler at chat:file:///G:/github/interiors/Server/altv-testserver/resources/chat/server.js:17 was too long 9ms
+[11:45:46] [chat:cmd] [GTALife.net] Techlef: /weapon stungun
+[11:46:14] Stopping resource timecycleModifiers
+[11:46:14] Stopped resource timecycleModifiers
+[11:46:14] Stopping resource techlef-server
