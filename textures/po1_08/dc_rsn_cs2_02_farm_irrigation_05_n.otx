@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dc_rsn_cs2_02_farm_irrigation_05_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage NORMAL
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

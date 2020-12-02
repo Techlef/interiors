@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ap1_03_noose1bap1_03_noose1.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 7
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

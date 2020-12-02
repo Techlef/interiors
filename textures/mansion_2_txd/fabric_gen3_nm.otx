@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image fabric_gen3_nm.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

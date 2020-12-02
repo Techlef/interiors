@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "modding.server/1.0.0": {
+        "dependencies": {
+          "AltV.Net": "1.40.4",
+          "AltV.Net.Async": "1.40.1",
+          "AltV.Net.Mock": "1.15.0",
+          "AltV.Net.Resources.Chat.Api": "1.40.0"
+        },
+        "runtime": {
+          "modding.server.dll": {}
+        }
+      },
+      "AltV.Net/1.40.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/AltV.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Async/1.40.1": {
+        "dependencies": {
+          "AltV.Net": "1.40.4",
+          "System.Threading.Channels": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AltV.Net.Async.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Mock/1.15.0": {
+        "dependencies": {
+          "AltV.Net": "1.40.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/AltV.Net.Mock.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Resources.Chat.Api/1.40.0": {
+        "dependencies": {
+          "AltV.Net": "1.40.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AltV.Net.Resources.Chat.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Threading.Channels/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "modding.server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AltV.Net/1.40.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C0KidclXZmbsJQyp46hEIrHFj83dqCg8Z6Fons50RXY5bkNHNprUJ4Pjmi+neOHfHeBvh8lXr/r/aRxg4J1BCQ==",
+      "path": "altv.net/1.40.4",
+      "hashPath": "altv.net.1.40.4.nupkg.sha512"
+    },
+    "AltV.Net.Async/1.40.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l9eI7mWz8KaBAkAtnWWAVXWtmlHtUa184bDfZe838Yn6fHZJk1KZ+eXkM6qwRbZmvcUPDjQhE4rRD3Rpw68wxg==",
+      "path": "altv.net.async/1.40.1",
+      "hashPath": "altv.net.async.1.40.1.nupkg.sha512"
+    },
+    "AltV.Net.Mock/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BgG22jc6rbYmuDA3fzlLTyrhfdvgVBCf2OiPQxPidSoOxUSRzikbbS5VVJzQ5Pl/rEhPHl2b3kFC+qU0lStFsQ==",
+      "path": "altv.net.mock/1.15.0",
+      "hashPath": "altv.net.mock.1.15.0.nupkg.sha512"
+    },
+    "AltV.Net.Resources.Chat.Api/1.40.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Lwiu3H1uspsd0WT3t3FkEair36eld5IK31gCZrNJ0VWQBVwfkSw7ejHubG12YOgeYHEfrID4I7JeVR7wibwacw==",
+      "path": "altv.net.resources.chat.api/1.40.0",
+      "hashPath": "altv.net.resources.chat.api.1.40.0.nupkg.sha512"
+    },
+    "System.Threading.Channels/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
+      "path": "system.threading.channels/4.7.0",
+      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
+    }
+  }
+}

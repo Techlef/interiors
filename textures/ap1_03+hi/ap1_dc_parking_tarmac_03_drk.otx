@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ap1_dc_parking_tarmac_03_drk.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage DIFFUSE
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

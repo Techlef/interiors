@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dlcba_xj_normal_base01.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 1
+	Usage NORMAL
+	UsageFlags -
+	ExtraFlags 0
+}

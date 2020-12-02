@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image nk_vw_pent_wenge_wood_01_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

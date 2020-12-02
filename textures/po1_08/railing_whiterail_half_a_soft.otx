@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image railing_whiterail_half_a_soft.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 5
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

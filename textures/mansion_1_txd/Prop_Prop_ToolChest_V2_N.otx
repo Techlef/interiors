@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image Prop_Prop_ToolChest_V2_N.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

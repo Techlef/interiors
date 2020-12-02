@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dlcba_mesh_diffusedlcba_mesh_alpha.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 6
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

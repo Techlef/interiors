@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image gz_DLC_Marble_Black_S.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

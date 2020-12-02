@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ap_billboard2_temp1.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

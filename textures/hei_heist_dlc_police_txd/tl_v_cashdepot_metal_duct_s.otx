@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image tl_v_cashdepot_metal_duct_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage SPECULAR
+	UsageFlags -
+	ExtraFlags 0
+}

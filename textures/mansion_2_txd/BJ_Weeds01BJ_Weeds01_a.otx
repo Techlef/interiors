@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image BJ_Weeds01BJ_Weeds01_a.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

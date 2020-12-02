@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image v_80percentgrey_a.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 1
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image cs_rsn_sl_road_0007_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage NORMAL
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

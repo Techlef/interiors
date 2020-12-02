@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image rsn_os_v_gold_ref2.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

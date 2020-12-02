@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<Configurations>Debug;Release</Configurations>
+		<Platforms>AnyCPU</Platforms>
+		<OutputType>Library</OutputType>
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+		<RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+		<StartupObject></StartupObject>
+		<LangVersion>latest</LangVersion>
+		<ApplicationIcon />
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+	  <OutputPath>G:\github\modding_backups\altv-testserver-modding\resources\techlef-server\</OutputPath>
+	</PropertyGroup>
+
+	<!--This copies the publish directory to the resource folder which is named "my-server"-->
+
+	<ItemGroup>
+		<AllOutputFiles Include="$(OutputPath)\publish\*.*" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="AltV.Net" Version="1.38.4" />
+	  <PackageReference Include="AltV.Net.Async" Version="1.38.4" />
+	  <PackageReference Include="AltV.Net.Mock" Version="1.15.0" />
+	  <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="1.38.0" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image Prop_vw_Desert_Iron_Bark_n.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 5
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

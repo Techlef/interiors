@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image po1_08_3alpha_railing_02.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 3
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

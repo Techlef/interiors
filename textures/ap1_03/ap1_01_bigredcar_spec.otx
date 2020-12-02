@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image ap1_01_bigredcar_spec.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage SPECULAR
+	UsageFlags HD_SPLIT
+	ExtraFlags 0
+}

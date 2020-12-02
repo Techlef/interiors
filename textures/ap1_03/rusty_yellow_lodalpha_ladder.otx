@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image rusty_yellow_lodalpha_ladder.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 4
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

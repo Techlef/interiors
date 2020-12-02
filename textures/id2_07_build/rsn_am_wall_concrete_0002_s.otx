@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image rsn_am_wall_concrete_0002_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

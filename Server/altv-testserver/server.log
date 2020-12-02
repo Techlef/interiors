@@ -1,0 +1,25 @@
+[11:43:10] alt:V Server, build #1301, branch release
+[11:43:10] Starting alt:V interior testserver on 0.0.0.0:7788
+[11:43:10] coreclr-module: version found: 3.1.7
+[11:43:10] coreclr-module: greatest version: 3.1.7
+[11:43:11] Loading resource techlef-server
+[11:43:11] Loaded resource techlef-server
+[11:43:11] Loading resource techlef-client
+[11:43:11] Loading resource chat
+[11:43:12] Loaded resource chat
+[11:43:12] Loaded resource techlef-client
+[11:43:12] Loading resource timecycleModifiers
+[11:43:12] Loaded resource timecycleModifiers
+[11:43:12] Starting HTTP server on 0.0.0.0:7788
+[11:43:12] Console thread started (ThreadId: 16696)
+[11:43:12] Main thread started (ThreadId: 10656)
+[11:43:12] Colshape thread started (ThreadId: 17136)
+[11:43:12] EntityStreamer thread started (ThreadId: 196)
+[11:43:12] Network thread started (ThreadId: 7332)
+[11:43:12] Server started
+[11:45:42] [chat:cmd] [GTALife.net] Techlef: /weapon
+[11:45:42][Warning] Event handler at chat:file:///G:/github/interiors/Server/altv-testserver/resources/chat/server.js:17 was too long 9ms
+[11:45:46] [chat:cmd] [GTALife.net] Techlef: /weapon stungun
+[11:46:14] Stopping resource timecycleModifiers
+[11:46:14] Stopped resource timecycleModifiers
+[11:46:14] Stopping resource techlef-server

@@ -1,0 +1,12 @@
+G:\github\modding_backups\source-testserver\modding.server\modding.server\bin\Debug\netcoreapp3.1\modding.server.deps.json
+G:\github\modding_backups\source-testserver\modding.server\modding.server\bin\Debug\netcoreapp3.1\modding.server.dll
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.csprojAssemblyReference.cache
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.AssemblyInfoInputs.cache
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.AssemblyInfo.cs
+G:\github\modding_backups\altv-testserver-modding\resources\techlef-server\netcoreapp3.1\modding.server.deps.json
+G:\github\modding_backups\altv-testserver-modding\resources\techlef-server\netcoreapp3.1\modding.server.dll
+G:\github\modding_backups\altv-testserver-modding\resources\techlef-server\netcoreapp3.1\modding.server.pdb
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.csproj.CoreCompileInputs.cache
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.csproj.CopyComplete
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.dll
+G:\github\modding_backups\source-testserver\modding.server\modding.server\obj\Debug\netcoreapp3.1\modding.server.pdb

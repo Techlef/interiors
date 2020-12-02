@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image rsn_am_graffiti_gang_tag_01_drsn_am_graffiti_gang_tag_01_a.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 9
+	Usage DIFFUSE
+	UsageFlags NOT_HALF HD_SPLIT
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image Prop_Palm_trunk_05.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}
