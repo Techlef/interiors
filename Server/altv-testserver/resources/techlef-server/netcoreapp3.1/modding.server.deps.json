@@ -8,16 +8,16 @@
     ".NETCoreApp,Version=v3.1": {
       "modding.server/1.0.0": {
         "dependencies": {
-          "AltV.Net": "1.40.4",
-          "AltV.Net.Async": "1.40.1",
+          "AltV.Net": "1.48.2",
+          "AltV.Net.Async": "1.48.1",
           "AltV.Net.Mock": "1.15.0",
-          "AltV.Net.Resources.Chat.Api": "1.40.0"
+          "AltV.Net.Resources.Chat.Api": "1.48.0"
         },
         "runtime": {
           "modding.server.dll": {}
         }
       },
-      "AltV.Net/1.40.4": {
+      "AltV.Net/1.48.2": {
         "runtime": {
           "lib/netcoreapp3.1/AltV.Net.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -25,10 +25,10 @@
           }
         }
       },
-      "AltV.Net.Async/1.40.1": {
+      "AltV.Net.Async/1.48.1": {
         "dependencies": {
-          "AltV.Net": "1.40.4",
-          "System.Threading.Channels": "4.7.0"
+          "AltV.Net": "1.48.2",
+          "System.Threading.Channels": "5.0.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/AltV.Net.Async.dll": {
@@ -39,7 +39,7 @@
       },
       "AltV.Net.Mock/1.15.0": {
         "dependencies": {
-          "AltV.Net": "1.40.4"
+          "AltV.Net": "1.48.2"
         },
         "runtime": {
           "lib/netcoreapp3.0/AltV.Net.Mock.dll": {
@@ -48,9 +48,9 @@
           }
         }
       },
-      "AltV.Net.Resources.Chat.Api/1.40.0": {
+      "AltV.Net.Resources.Chat.Api/1.48.0": {
         "dependencies": {
-          "AltV.Net": "1.40.4"
+          "AltV.Net": "1.48.2"
         },
         "runtime": {
           "lib/netcoreapp3.1/AltV.Net.Resources.Chat.Api.dll": {
@@ -59,7 +59,14 @@
           }
         }
       },
-      "System.Threading.Channels/4.7.0": {}
+      "System.Threading.Channels/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.Threading.Channels.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -68,19 +75,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AltV.Net/1.40.4": {
+    "AltV.Net/1.48.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-C0KidclXZmbsJQyp46hEIrHFj83dqCg8Z6Fons50RXY5bkNHNprUJ4Pjmi+neOHfHeBvh8lXr/r/aRxg4J1BCQ==",
-      "path": "altv.net/1.40.4",
-      "hashPath": "altv.net.1.40.4.nupkg.sha512"
+      "sha512": "sha512-tNLZkcEz1JiXwYM70+wDAKrch53rgNPx36QgpGluHcPIHa8rroiu5roweqWThEkozrI7AjOtrF1oUhG0n2LOrw==",
+      "path": "altv.net/1.48.2",
+      "hashPath": "altv.net.1.48.2.nupkg.sha512"
     },
-    "AltV.Net.Async/1.40.1": {
+    "AltV.Net.Async/1.48.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-l9eI7mWz8KaBAkAtnWWAVXWtmlHtUa184bDfZe838Yn6fHZJk1KZ+eXkM6qwRbZmvcUPDjQhE4rRD3Rpw68wxg==",
-      "path": "altv.net.async/1.40.1",
-      "hashPath": "altv.net.async.1.40.1.nupkg.sha512"
+      "sha512": "sha512-JGnIDylN+61lLrS3Nrf03LWlIDrKNr3e3qygy2FGzyI6YpYzuDyZt7+NbT9wDIFbzdwoSwn570bL08twf7rUoQ==",
+      "path": "altv.net.async/1.48.1",
+      "hashPath": "altv.net.async.1.48.1.nupkg.sha512"
     },
     "AltV.Net.Mock/1.15.0": {
       "type": "package",
@@ -89,19 +96,19 @@
       "path": "altv.net.mock/1.15.0",
       "hashPath": "altv.net.mock.1.15.0.nupkg.sha512"
     },
-    "AltV.Net.Resources.Chat.Api/1.40.0": {
+    "AltV.Net.Resources.Chat.Api/1.48.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Lwiu3H1uspsd0WT3t3FkEair36eld5IK31gCZrNJ0VWQBVwfkSw7ejHubG12YOgeYHEfrID4I7JeVR7wibwacw==",
-      "path": "altv.net.resources.chat.api/1.40.0",
-      "hashPath": "altv.net.resources.chat.api.1.40.0.nupkg.sha512"
+      "sha512": "sha512-tdFpAdzt8Cj/1XzIeLjzZalMjlA8Isyowapta2tlVEQ9XRXWrsVggMYyqzZS7bEb4BbhNieLW+ZhE9RYXf6Ttw==",
+      "path": "altv.net.resources.chat.api/1.48.0",
+      "hashPath": "altv.net.resources.chat.api.1.48.0.nupkg.sha512"
     },
-    "System.Threading.Channels/4.7.0": {
+    "System.Threading.Channels/5.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
-      "path": "system.threading.channels/4.7.0",
-      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
+      "sha512": "sha512-RLBIxntLaG9pRmmuVDwY1kc8Bvp/FQzSxPU+19VekkScKkWtVP9r8bLhm28ama3usc816UBrmkg3vv3jUea/hw==",
+      "path": "system.threading.channels/5.0.0",
+      "hashPath": "system.threading.channels.5.0.0.nupkg.sha512"
     }
   }
 }
